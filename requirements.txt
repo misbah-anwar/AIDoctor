@@ -1,0 +1,9 @@
+accelerate
+peft
+bitsandbytes
+transformers
+trl
+huggingface_hub
+torch
+datasets
+streamlit
